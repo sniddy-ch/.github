@@ -18,4 +18,4 @@ TBA |  Symposium on modeling and policy making | Institute of Social and Preven
 ## Previous meetings
 Date | Meeting | Organizer
 ---- | ------- | ---------
-25 November 2019 | [Workshop Infectious Disease Surveillance](../../2019-infectious-disease-surveillance) | Institute of Social and Preventive Medicine, University of Bern
+25 November 2019 | [Workshop Infectious Disease Surveillance](https://github.com/smiddy-ch/2019-infectious-disease-surveillance) | Institute of Social and Preventive Medicine, University of Bern
