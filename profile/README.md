@@ -13,7 +13,7 @@ SMIDDY was initiated in 2010 by [Christian Althaus](https://www.ispm.unibe.ch/ab
 ## Upcoming events
 Date | Event | Organizer(s)
 ---- | ------- | ---------
-TBA |  Symposium on modeling and policy making | Institute of Social and Preventive Medicine, University of Bern
+20 October 2023 |  Modelling infectious diseases during the pandemic: advances in methods and its role for policy making | Institute of Social and Preventive Medicine, University of Bern
 
 ## Previous events
 Date | Event | Organizer(s)
@@ -26,4 +26,3 @@ Date | Event | Organizer(s)
 30 August 2012 | SMIDDY | Institute of Modelling and Simulation IMS; St.Gallen Innovation Centre IZSG
 24 August 2011 | SMIDDY | Swiss Tropical and Public Health Institute (Swiss TPH)
 28 May 2010 | SMIDDY | Institute of Social and Preventive Medicine, University of Bern
-
