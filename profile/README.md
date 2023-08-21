@@ -13,7 +13,7 @@ SMIDDY was initiated in 2010 by [Christian Althaus](https://www.ispm.unibe.ch/ab
 ## Upcoming events
 Date | Event | Organizer(s)
 ---- | ------- | ---------
-20 October 2023 |  Modelling infectious diseases during the pandemic: advances in methods and its role for policy making | Institute of Social and Preventive Medicine, University of Bern
+20 October 2023 |  [Modelling infectious diseases during the pandemic: advances in methods and its role for policy making](https://www.smiddy.ch) | Institute of Social and Preventive Medicine, University of Bern
 
 ## Previous events
 Date | Event | Organizer(s)
