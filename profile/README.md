@@ -1,6 +1,6 @@
 ## About
 
-The Swiss Meeting for Infectious Disease Dynamics (SMIDDY) aims to promote scientific exchange, research, and dissemination in the field of infectious disease dynamics in Switzerland. To achieve this goal, the association organizes the annual Swiss Meeting for Infectious Disease Dynamics (SMIDDY), bringing together researchers and professionals from different fields within Switzerland, ranging from basic research to public health policy.
+The Swiss Network for Infectious Disease Dynamics (SNIDDY) aims to promote scientific exchange, research, and dissemination in the field of infectious disease dynamics in Switzerland. To achieve this goal, the association organizes the annual Swiss Meeting for Infectious Disease Dynamics (SMIDDY), bringing together researchers and professionals from different fields within Switzerland, ranging from basic research to public health policy.
 
 ## Executive board
 
